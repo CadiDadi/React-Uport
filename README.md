@@ -1,4 +1,4 @@
-#React-uPort TruffleBox
+<h1>React-uPort TruffleBox</h1>
 
 Integrate uPort decentralized identity platform into React-uPort TruffleBox.
 
